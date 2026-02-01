@@ -1,0 +1,20 @@
+{
+    "status": "Optimal",
+    "objective": 2685.0,
+    "variables": {
+        "BBQ_Sauce_Quantity": 14.0,
+        "Hot_Sauce_Quantity": 13.0,
+        "Salsa_Quantity": 32.0
+    },
+    "max_profits": 2685.0,
+    "bottles": {
+        "hot_sauce": 13.0,
+        "bbq_sauce": 14.0,
+        "salsa": 32.0
+    },
+    "machine_utilization_percent": {
+        "mixer": 99.16666666666667,
+        "cooker": 100.0,
+        "bottler": 98.75
+    }
+}
