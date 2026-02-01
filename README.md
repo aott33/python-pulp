@@ -82,3 +82,10 @@ Using PuLP, determine how many batches of each product to make daily to maximize
 - Optimal number of batches for each product
 - Total daily profit
 - Machine utilization percentages
+
+### Output Files
+
+Results are saved to the `problems/` directory:
+
+- **Problem Definition** - The PuLP problem structure (variables, constraints, objective)
+- **Solution Results** - The solved values, profit, and machine utilization

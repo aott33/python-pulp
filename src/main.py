@@ -66,6 +66,7 @@ def main():
     print(f"Writing problem results to {results_filepath}")
     with open(results_filepath, "w") as f:
         f.write(json_output)
+        
     print("Results:")
     print(json_output)
 
